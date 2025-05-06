@@ -1,16 +1,12 @@
-## Hi there 👋
+## Something about me
 
-<!--
-**connebrink/connebrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I love to code in **C++**
+- I love to code in **Lisp**
+- I love to code in **Scheme**
+- I love to tweak with **Assembly**
+---
+- I dont like emacs lisp much, but i have  
+  to use emacs lisp because Im a emacs user.
+- I dont like python because its slow, but i  
+  have to use it on my job.
+- I hate to code in java, but its my job too.
