@@ -1,8 +1,7 @@
 ## Something about me
 
 - I love to code in **C++**
-- I love to code in **Lisp**
-- I love to code in **Scheme**
+- I love to code in real **Lisp**
 - I love to tweak with **Assembly**
 ---
 - I dont like emacs lisp much, but i have to use emacs lisp because Im a emacs user.
