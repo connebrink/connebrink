@@ -2,7 +2,7 @@
 
 - I love to code in **C++**
 - I love to code in real **Lisp**
-- I love to tweak with **Assembler**
+- I love to tweak with **Assembler** (x86,AMD64,..)
 ---
 - I dont like emacs lisp much, but i have to use emacs lisp because Im a emacs user.
 - I dont like python because its slow, but i have to use it on my job.
