@@ -12,4 +12,4 @@
 ---
 Here on github I publish my private repos I created just for fun. 
 
-Movd to https://codeberg.org/clas
+Moved to https://codeberg.org/clas
